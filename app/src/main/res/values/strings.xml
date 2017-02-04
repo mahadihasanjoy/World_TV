@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">World TV</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="one">হোম</string>
+    <string name="two">ইউরোপ</string>
+    <string name="three">আমেরিকা</string>
+    <string name="four">এশিয়া</string>
+    <string name="five">বাংলাদেশ</string>
+    <string name="six">অর্জন</string>
+    <string name="seven">বাংলাদেশ</string>
+    <string name="eight">আড্ডা</string>
+    <string name="nine">আড্ডা</string>
+
+
+</resources>
